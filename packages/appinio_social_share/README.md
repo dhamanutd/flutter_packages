@@ -70,6 +70,7 @@ Add these permissions and queries to your AndroidManifest.xml
           
     <package android:name="com.instagram.android" />
     <package android:name="com.zhiliaoapp.musically" />
+    <package android:name="com.ss.android.ugc.trill" />
     <package android:name="com.facebook.katana" />
     <package android:name="com.facebook.orca" />
     <package android:name="org.telegram.messenger" />
